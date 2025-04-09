@@ -1,2 +1,2 @@
 # VBA-challenge
-This is the completed Module 02 Challenge script
+This is the completed Module 02 Challenge script and snapshots
